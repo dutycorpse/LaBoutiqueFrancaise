@@ -9,3 +9,5 @@
 `symfony console doctrine:database:create`
 
 `symfony console doctrine:migration:migrate`
+
+`symfony console server:start`
